@@ -1,0 +1,6 @@
+{
+  "name": "PAL INDUSTRIES - Employee Payroll Management System",
+  "description": "Enterprise HR and Payroll Management Software for PAL INDUSTRIES (Chairman: Ankur Pal), featuring automated salary calculation, salary slip PDF generation, employee records management, and Java Swing OOP codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
